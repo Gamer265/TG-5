@@ -2,7 +2,7 @@ version: "3.7"
 
 services:
 
-  telegram-forwarder:
+  telegram-forwarder-xx:
     image: telegram-forwarder-bot-xx
     stdin_open: true
     tty: true
